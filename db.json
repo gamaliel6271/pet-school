@@ -1,0 +1,22 @@
+{
+
+    "tutores" : [{
+        "id" : "1" ,  "nome" : "Safira" , "telefone" : "47999100100"
+} ,{
+        "id" : "2" ,  "nome" : "maria" , "telefone" : "47999100100"
+} ,
+
+    {
+        "id" : "3" ,  "nome" : "mauricio" , "telefone" : "47999100100"
+}
+]
+,
+    "pets" : [
+        {
+            "id" : "1" ,
+            "nome" : "sahur" ,
+            "especie" : "Cachrro" ,
+            "tutorId" : "1" 
+        }
+    ]
+}
